@@ -1,0 +1,31 @@
+
+#div
+ {
+    color: blanchedalmond;
+    background-color: black;
+ }
+ #second{
+    color: blue;
+    background-color: chartreuse;
+ }
+
+ #third{
+    color: aqua;
+    background-color: black;
+ }
+ #new p{
+    color: brown;
+    background-color: chartreuse;
+ }
+ p{
+    color: darkgreen;
+    background-color: cyan;
+ }
+ button{
+    color: black;
+    background-color: darkgreen;
+ }
+ .class{
+    color:maroon;
+    background-color: fuchsia;
+ }
